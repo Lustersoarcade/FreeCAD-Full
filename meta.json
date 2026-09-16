@@ -1,0 +1,23 @@
+{
+  "repo": "freecad-full",
+  "product": "FreeCAD Full",
+  "kind": "cad",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "parametric-cad",
+  "topics": [
+    "freecad-parametric",
+    "part-design-desktop",
+    "tech-drawing-tools",
+    "freecad-windows",
+    "assembly-mates-2026",
+    "how-to-install-freecad",
+    "freecad-desktop-package",
+    "mechanical-cad-suite",
+    "sketch-workbench",
+    "freecad-pro-suite"
+  ],
+  "site": "toolix.me"
+}
